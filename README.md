@@ -1,6 +1,6 @@
 - 👋 Hi, I’m KG
 - 👀 I’m interested in Cloud, ML, HFT
-- 🌱 I’m currently focusing AWS and ML
+- 🌱 I’m currently focusing on AWS and ML
 - �  I open to collaboration on ML projects and app development (C#/C++ based) 
 
 <!---
